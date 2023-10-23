@@ -1,4 +1,5 @@
-//Task1
+//Task1 #codsoft internship project #1
+//programming in java to create NumberGame
 import java.util.Random;
 import java.util.Scanner;
 

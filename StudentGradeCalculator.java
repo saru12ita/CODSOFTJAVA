@@ -1,4 +1,5 @@
-//Task2
+//Task2 codsoft project #2
+//programming in java to generate STUDENT GRADE CALCULATOR
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
